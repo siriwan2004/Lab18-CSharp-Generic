@@ -1,0 +1,15 @@
+D:\OOP\Lab18\Lab18-CSharp-Generic\Lab18_Ex10\bin\Debug\net9.0\Lab18_Ex10.exe
+D:\OOP\Lab18\Lab18-CSharp-Generic\Lab18_Ex10\bin\Debug\net9.0\Lab18_Ex10.deps.json
+D:\OOP\Lab18\Lab18-CSharp-Generic\Lab18_Ex10\bin\Debug\net9.0\Lab18_Ex10.runtimeconfig.json
+D:\OOP\Lab18\Lab18-CSharp-Generic\Lab18_Ex10\bin\Debug\net9.0\Lab18_Ex10.dll
+D:\OOP\Lab18\Lab18-CSharp-Generic\Lab18_Ex10\bin\Debug\net9.0\Lab18_Ex10.pdb
+D:\OOP\Lab18\Lab18-CSharp-Generic\Lab18_Ex10\obj\Debug\net9.0\Lab18_Ex10.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\Lab18\Lab18-CSharp-Generic\Lab18_Ex10\obj\Debug\net9.0\Lab18_Ex10.AssemblyInfoInputs.cache
+D:\OOP\Lab18\Lab18-CSharp-Generic\Lab18_Ex10\obj\Debug\net9.0\Lab18_Ex10.AssemblyInfo.cs
+D:\OOP\Lab18\Lab18-CSharp-Generic\Lab18_Ex10\obj\Debug\net9.0\Lab18_Ex10.csproj.CoreCompileInputs.cache
+D:\OOP\Lab18\Lab18-CSharp-Generic\Lab18_Ex10\obj\Debug\net9.0\Lab18_Ex10.sourcelink.json
+D:\OOP\Lab18\Lab18-CSharp-Generic\Lab18_Ex10\obj\Debug\net9.0\Lab18_Ex10.dll
+D:\OOP\Lab18\Lab18-CSharp-Generic\Lab18_Ex10\obj\Debug\net9.0\refint\Lab18_Ex10.dll
+D:\OOP\Lab18\Lab18-CSharp-Generic\Lab18_Ex10\obj\Debug\net9.0\Lab18_Ex10.pdb
+D:\OOP\Lab18\Lab18-CSharp-Generic\Lab18_Ex10\obj\Debug\net9.0\Lab18_Ex10.genruntimeconfig.cache
+D:\OOP\Lab18\Lab18-CSharp-Generic\Lab18_Ex10\obj\Debug\net9.0\ref\Lab18_Ex10.dll
